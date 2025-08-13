@@ -1,2 +1,5 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+
+app/* linguist-documentation=false
+app/* linguist-vendored
