@@ -78,7 +78,7 @@ gerenciador-investimento/
 
   <img width="369" height="22" alt="run" src="https://github.com/user-attachments/assets/7334d2f0-f060-4c61-afab-efcc9a05c845" />
 
-- Indicado utilar o Insomnia
+- Indicado utilizar o Insomnia
   
   <img width="562" height="132" alt="Posts gets" src="https://github.com/user-attachments/assets/7f56b45a-4fc9-4977-995e-4520a38ad224" />
   
